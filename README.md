@@ -16,4 +16,4 @@ Learn Java and using it to solve problems
   - Key: `JAVA_HOME`, Value: `C:\Java\jdk-18.0.1.1`
   - Key: `Path`, Value: `C:\Java\jdk-18.0.1.1\bin`
 
-![CMD](\images\1.png)
+![CMD](/images/1.png)
